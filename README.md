@@ -1,2 +1,12 @@
 # number-guessing-game-python
-A simple Python number guessing game using random module and exception handling.
+This is a simple Python game where the computer generates a random number and the user tries to guess it.
+
+## Features
+- Random number generation
+- User input validation
+- Hint system (Too high / Too low)
+- Attempt counter
+
+## How to Run
+
+python number_guess.py
